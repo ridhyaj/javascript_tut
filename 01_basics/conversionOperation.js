@@ -37,3 +37,13 @@ console.log(booleanIsLoggedIn);
 let num=22
 let stNum=String(num)
 console.log(typeof stNum);
+
+
+
+
+
+
+//operations---------------------------------------------
+let value=4
+let negValue= -value
+console.log(negValue);
