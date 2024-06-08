@@ -13,3 +13,7 @@ console.log(null>=0);  //true
 
 //the equality check (==) and comaprison (<,>,>=,<=) works differently. The comparison convert null to a number, treating it as 0, that's why it gave true.
 //same as undefined
+
+//=== also checks the datatypes
+console.log("hello");
+console.log("2"===2);  //false
