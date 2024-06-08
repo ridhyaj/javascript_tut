@@ -25,4 +25,21 @@ console.log(id1===id2);
 const bigNumber=34567876543234567654n
 
 //Reference type / Non-primitive
-//Array, Objects, Functions, 
+//Array, Objects, Functions
+
+
+//array
+const heros=["Shaktiman", "Naagraj", "doga"]
+
+
+//object
+{
+    name: "Arya";
+    
+}
+
+let myObj={
+    name:"Ram",
+    age:19
+}
+
