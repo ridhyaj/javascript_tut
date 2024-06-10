@@ -43,3 +43,9 @@ let myObj={
     age:19
 }
 
+const myFunc=function(){
+    console.log("Hello");
+}
+
+console.log(typeof myFunc);
+
